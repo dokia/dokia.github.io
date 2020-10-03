@@ -1,6 +1,6 @@
 ## Contents
 
-[The road to writing](./the_road_to_writing.md)
+[The road to writing](https://github.com/dokia/dokia.github.io/the_road_to_writing.md)
 
 ## Welcome to GitHub Pages
 
